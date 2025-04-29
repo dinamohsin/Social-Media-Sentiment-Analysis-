@@ -1,6 +1,5 @@
+![NLP Sentiment Analysis](https://github.com/dinamohsin/Social-Media-Sentiment-Analysis-/blob/main/img/NLP.png?raw=true)
 
-
-![NLP](https://github.com/user-attachments/assets/c562544a-172b-4395-af94-62262d6134eb)
 
 # Social Media Sentiment Analysis (Python & NLP)
 
