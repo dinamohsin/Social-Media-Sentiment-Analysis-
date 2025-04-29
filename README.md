@@ -111,7 +111,9 @@ We vectorized the cleaned text using **TfidfVectorizer** and trained a **Logisti
 
 ## 8. Sentiment Trend Visualization  
 We visualized the trend of positive vs. negative sentiments over time using line chart to understand public opinion patterns and shifts.
-![fa0e2aca-6b79-4422-9fa3-84260a013771](https://github.com/user-attachments/assets/e172ebf8-1e00-4b24-82bc-8eb9509045b5)
+
+
+![Positive vs. Negative Sentiments](https://github.com/dinamohsin/Social-Media-Sentiment-Analysis-/blob/main/img/positive%20vs.%20negative%20sentiments.png?raw=true)
 
 ---
 
